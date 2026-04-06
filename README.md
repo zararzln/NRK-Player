@@ -1,6 +1,9 @@
 ---
+title: NRK Player
+---
 
 # NRK Player
+...
 
 A native Android TV app for NRK content, built with Kotlin, Jetpack Compose and ExoPlayer/Media3.
 
